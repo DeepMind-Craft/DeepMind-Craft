@@ -53,4 +53,5 @@ I love exploring new technologies, automating workflows, and creating projects t
 
 ### 🐍 GitHub Contribution Snake  
 ```html
-<img src="https://raw.githubusercontent.com/Neuro-Forge/Neuro-Forge/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DeepMind-Craft/DeepMind-Craft/output/snake.svg" alt="Snake animation" />
+
