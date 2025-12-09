@@ -52,9 +52,9 @@ I love exploring new technologies, automating workflows, and creating projects t
 ---
 
 ### 🐍 GitHub Contribution Snake  
-<h3 align="center">🐍 GitHub Contribution Snake</h3>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeepMind-Craft/DeepMind-Craft/output/snake.svg" width="500"/>
+  <img src="https://raw.githubusercontent.com/DeepMind-Craft/DeepMind-Craft/output/snake.svg" width="500" height="60"/>
 </p>
 
 ```html
