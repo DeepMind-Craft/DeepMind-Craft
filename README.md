@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello Wrorld</h1>
+
 <h3 align="center">🚀 AI Enthusiast | 💼 Working Professional | 🧠 Tech Explorer</h3>
 
 ---
